@@ -618,7 +618,7 @@ exports.GadaChat = () => {
 exports.SumberBot = () => {
     return `\n_Sumber script bot ini_`
 }
-exports.nya = () => {
+exports.Tqnya = () => {
     return `\n_Siapa aja yang berkontribusi di dalam bot ini_`
 }
 exports.SetAh = () => {
@@ -1731,7 +1731,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ Ardi
+│○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
 │○ Mhankbarbar
@@ -2459,7 +2459,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ Ardi
+│○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
 │○ Mhankbarbar

@@ -1519,8 +1519,28 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 
 ╭─❒ 「 Asupan Menu 」
-│○ 
-╰❒ 
+│○ !chika
+│○ !delvira
+│○ !ayu
+│○ !bunga
+│○ !aura
+│○ !nisa
+│○ !ziva
+│○ !yana
+│○ !viona
+│○ !syania
+│○ !riri
+│○ !syifa
+│○ !mama_gina
+│○ !alcakenya
+│○ !mangayutri
+│○ !rikagusriani
+│○ !asupan
+│○ !bocil
+│○ !geayubi
+│○ !santuy
+│○ !ukhty
+╰❒ !syifa
 
 ╭─❒ 「 Telegram Sticker 」
 │○ !awoawo
